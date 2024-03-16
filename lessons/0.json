@@ -1,0 +1,23 @@
+[
+	{
+		"millisTimeEnd":1710549900000,
+		"millisTimeStart":1710547200000,
+		"name":"周日课程1",
+		"timeEnd":"8:45:00",
+		"timeStart":"8:00:00"
+	},
+	{
+		"millisTimeEnd":1710553200000,
+		"millisTimeStart":1710550500000,
+		"name":"周日课程2",
+		"timeEnd":"9:40:00",
+		"timeStart":"8:55:00"
+	},
+	{
+		"millisTimeEnd":1710558300000,
+		"millisTimeStart":1710555600000,
+		"name":"周日课程3",
+		"timeEnd":"11:05:00",
+		"timeStart":"10:20:00"
+	}
+]
