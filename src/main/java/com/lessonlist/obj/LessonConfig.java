@@ -22,9 +22,9 @@ public class LessonConfig {
             timeStart.setText(l.getTimeStart());
             timeEnd.setText(l.getTimeEnd());
         } else {
-            name.setText("missingno");
-            timeStart.setText("missingno");
-            timeEnd.setText("missingno");
+            name.setText("空");
+            timeStart.setText("空");
+            timeEnd.setText("空");
         }
         isEnabled.setSelected(i);
     }
